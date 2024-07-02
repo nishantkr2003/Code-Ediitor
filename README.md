@@ -26,7 +26,7 @@ Responsive Code Esitor using HTML, CSS and Javascript.
 ![5](https://github.com/nishantkr2003/Code-Ediitor/assets/143467602/4d308fb5-1775-4e7c-80c7-2ca52f605c49)
 
 
-#   vedio 
+#   video 
 
 https://github.com/nishantkr2003/Code-Ediitor/assets/143467602/b28ccc37-c86f-4948-b592-02e9824b5e79
 
